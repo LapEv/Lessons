@@ -1,0 +1,44 @@
+/* line 8, ../../../../../LapEv/My projects/SASS/sass/style.sass */
+h1 {
+  color: blue;
+  font-size: 50px;
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 12, ../../../../../LapEv/My projects/SASS/sass/style.sass */
+h2 {
+  color: blue;
+}
+
+/* line 14, ../../../../../LapEv/My projects/SASS/sass/style.sass */
+.block {
+  background-color: black;
+}
+
+/* line 16, ../../../../../LapEv/My projects/SASS/sass/style.sass */
+.block h3 {
+  color: blue;
+}
+
+/* line 18, ../../../../../LapEv/My projects/SASS/sass/style.sass */
+.block_color {
+  background-color: #fff;
+}
+
+/* line 20, ../../../../../LapEv/My projects/SASS/sass/style.sass */
+.block_color button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red;
+}
+
+/* line 22, ../../../../../LapEv/My projects/SASS/sass/style.sass */
+.block .block_color {
+  color: pink;
+}
+
+/*# sourceMappingURL=style.css.map */
