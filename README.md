@@ -22,4 +22,7 @@ Use:
 	Adaptation for different devices
 	
 		@media
+
+
+Add lesson for JQuery
 		
