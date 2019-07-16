@@ -24,5 +24,5 @@ Use:
 		@media
 
 
-Add lesson for JQuery
+Add lesson for JQuery and project Tours
 		
